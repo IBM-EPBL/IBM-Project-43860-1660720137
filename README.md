@@ -54,9 +54,11 @@ Assignment 03 : https://github.com/IBM-EPBL/IBM-Project-43860-1660720137/tree/ma
 
 Assignment 04 : https://github.com/IBM-EPBL/IBM-Project-43860-1660720137/tree/main/ASSIGNMENTS/TEAM%20MEMBER%202%20(MOHAMED%20ISHAQ)/ASSIGNMENT%204
 
-Ideation Phase : Literature Survey : LITERATURE SURVEY (1).pdf;
+Ideation Phase : [LITERATURE SURVEY (1).pdf](https://github.com/IBM-EPBL/IBM-Project-43860-1660720137/files/9876458/LITERATURE.SURVEY.1.pdf)
 
-Empathy Map : Empathy map (1).pdf;
+
+Empathy Map : [EMPATHY MAP (1).pdf](https://github.com/IBM-EPBL/IBM-Project-43860-1660720137/files/9876467/EMPATHY.MAP.1.pdf)
+
 
 Problem Statement : DEFINE%20PROBLEM%20STATEMENT.pdf
 
